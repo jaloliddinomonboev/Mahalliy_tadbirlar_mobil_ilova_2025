@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Asosiy"/>
+
+
+
+    <item
+        android:id="@+id/Service"
+        android:icon="@drawable/baseline_service_24"
+        android:title="Xizmatlar"/>
+
+    <item
+        android:id="@+id/Event"
+        android:icon="@drawable/baseline_event_24"
+        android:title="Tadbirlar"/>
+
+    <item
+        android:id="@+id/Chat"
+        android:icon="@drawable/chat_icon"
+        android:title="Chat"/>
+
+
+    <item
+        android:id="@+id/Profile"
+        android:icon="@drawable/baseline_person_24"
+        android:title="Profile"/>
+
+</menu>

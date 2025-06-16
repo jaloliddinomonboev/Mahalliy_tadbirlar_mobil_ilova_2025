@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_about"
+        android:title="Ilova haqida"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_contact"
+        android:title="Admin bilan bog‘lanish"
+        app:showAsAction="never" />
+</menu>

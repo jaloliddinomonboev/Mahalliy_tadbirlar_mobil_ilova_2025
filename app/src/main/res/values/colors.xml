@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="skycolor">#FF03DAC5</color>
+    <color name="darkskycolor">#FF018786</color>
+    <color name="primary">#FFC107</color>
+    <color name="primaryeasy">#a48428</color>
+    <color name="transparent">#E4E3E0</color>
+    <color name="gray">#D3D3D3</color>  <!-- Kul rang -->
+    <color name="red">#E41818</color>
+    <color name="dark_gray">#333333</color>
+    <color name="blue">#2196F3</color>  <!-- Moviy rang -->
+    <color name="light_gray">#F5F5F5</color>
+    <color name="teal_700">#00796B</color>
+    <color name="purple_500">#9C27B0</color> <!-- Material Purple -->
+    <color name="green">#4CAF50</color> <!-- Yashil rangning HEX kodi -->
+    <color name="primary_color">#0288D1</color>
+    <color name="secondary_color">#03A9F4</color>
+    <color name="accent_color">#F44336</color>
+    <color name="colorPrimary">#6200EE</color>
+
+</resources>

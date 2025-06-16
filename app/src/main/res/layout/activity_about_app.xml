@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Ilova logosi -->
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="16dp"
+            android:src="@drawable/logo_app"
+            android:contentDescription="Ilova logosi" />
+
+        <!-- Sarlavha -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="Ilova haqida"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:gravity="center" />
+
+        <!-- Ilova haqida umumiy ma'lumot -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="“Mahalliy tadbirlar” ilovasi sizga o‘z tadbirlaringizni rejalashtirish, boshqarish va boshqa foydalanuvchilar bilan ulashish imkonini beradi. Ushbu ilova yordamida siz mahalliy tadbirlar, uchrashuvlar va boshqa muhim voqealarni osongina tashkil qilishingiz mumkin. Ilovamizning asosiy maqsadi foydalanuvchilarga qulay va samarali platforma taqdim etishdir."
+            android:textColor="@color/dark_gray"
+            android:textSize="16sp" />
+
+        <!-- Xususiyatlar sarlavhasi -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Ilovaning asosiy xususiyatlari"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <!-- Xususiyatlar ro‘yxati -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="• Tadbirlar taqvimini yuritish: O‘z tadbirlaringizni kalendarga qo‘shing va ularni osongina kuzatib boring.\n\n• Tadbirlar ro‘yxatini ko‘rish: Aylanma ro‘yxat orqali eng so‘nggi tadbirlarni ko‘ring va ularga qo‘shiling.\n\n• Tadbir qo‘shish: Yangi tadbir qo‘shish uchun Floating Action Button (FAB) orqali ro‘yxatdan o‘tish formasini to‘ldiring.\n\n• Chat orqali muloqot: Boshqa foydalanuvchilar bilan chat orqali muloqot qiling va tadbirlar haqida muhokama qiling.\n\n• Admin bilan bog‘lanish: Admin bilan bog‘lanish uchun menyudan “Admin bilan bog‘lanish” opsiyasini tanlang.\n\n• Tadbirni o‘chirish (Adminlar uchun): Agar siz admin bo‘lsangiz, tadbirlarni o‘chirish imkoniyatiga egasiz."
+            android:textColor="@color/dark_gray"
+            android:textSize="16sp" />
+
+        <!-- Foydalanish bo‘yicha qo‘llanma sarlavhasi -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Ilovadan foydalanish bo‘yicha qo‘llanma"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <!-- Foydalanish bo‘yicha qo‘llanma -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="1. Ilovaga kirish: Ilovaga kirish uchun avval ro‘yxatdan o‘ting yoki tizimga kiring.\n\n2. Tadbir qo‘shish: Asosiy ekranda pastki o‘ng burchakdagi “+” tugmasini bosing va tadbir haqida ma'lumotlarni kiriting (nomi, sanasi, joyi va h.k.).\n\n3. Tadbirlar ro‘yxatini ko‘rish: Asosiy ekranda aylanma ro‘yxat orqali so‘nggi tadbirlarni ko‘rishingiz mumkin. Tadbir haqida ko‘proq ma'lumot olish uchun uni bosing.\n\n4. Kalendardan foydalanish: Kalendar orqali muayyan sanadagi tadbirlarni ko‘rish uchun kerakli sanani tanlang.\n\n5. Chatdan foydalanish: Chat bo‘limiga o‘tib, boshqa foydalanuvchilar bilan muloqot qilishingiz mumkin.\n\n6. Admin bilan bog‘lanish: Menyudan “Admin bilan bog‘lanish” opsiyasini tanlang va admin bilan aloqaga chiqing.\n\n7. Tadbirni o‘chirish (Adminlar uchun): Agar admin huquqlaringiz bo‘lsa, tadbirni o‘chirish uchun tadbir karta ustidagi “O‘chirish” tugmasini bosing."
+            android:textColor="@color/dark_gray"
+            android:textSize="16sp" />
+
+        <!-- Aloqa ma'lumotlari sarlavhasi -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="Biz bilan bog‘laning"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <!-- Aloqa ma'lumotlari -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="16dp"
+            android:text="Bizning jamoa doimo ilovani yaxshilash ustida ishlamoqda. Agar sizda takliflar, shikoyatlar yoki savollar bo‘lsa, quyidagi manzil orqali biz bilan bog‘laning:\n\n📧 Email: jaloliddinomonboev@gmail.com\n📞 Telefon: +998 94 223 13 08\n🌐 Telegram: @jaloliddin_1308"
+            android:textColor="@color/dark_gray"
+            android:textSize="16sp" />
+    </LinearLayout>
+</ScrollView>

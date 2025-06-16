@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Event Label stili -->
+    <style name="EventLabel">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#151312</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Event Value stili -->
+    <style name="EventValue">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#1E1A17</item>
+    </style>
+</resources>
