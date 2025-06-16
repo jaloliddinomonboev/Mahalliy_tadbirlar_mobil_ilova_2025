@@ -1,6 +1,6 @@
 📍 Mahalliy Tadbirlar Mobil Ilovasi
 
-Mahalliy Tadbirlar** — bu Android uchun ishlab chiqilgan mobil ilova bo‘lib, foydalanuvchilarga mahalliy hududdagi turli tadbirlar haqida **real vaqtda** xabardor bo‘lish, tashkilotchilar va foydalanuvchilar bilan **chatlashish**, hamda tadbirlarni **eslatmaga qo‘shish** imkonini beradi.
+Mahalliy Tadbirlar — bu Android uchun ishlab chiqilgan mobil ilova bo‘lib, foydalanuvchilarga mahalliy hududdagi turli tadbirlar haqida **real vaqtda** xabardor bo‘lish, tashkilotchilar va foydalanuvchilar bilan **chatlashish**, hamda tadbirlarni **eslatmaga qo‘shish** imkonini beradi.
 
 ---
 
