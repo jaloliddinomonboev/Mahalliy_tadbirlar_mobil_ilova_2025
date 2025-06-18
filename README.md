@@ -1,5 +1,8 @@
 📍 Mahalliy Tadbirlar Mobil Ilovasi
 
+📥 Ilovani yuklab olish
+🔗https://mahalliy-tadbirlar.netlify.app/
+
 Mahalliy Tadbirlar — bu Android uchun ishlab chiqilgan mobil ilova bo‘lib, foydalanuvchilarga mahalliy hududdagi turli tadbirlar haqida **real vaqtda** xabardor bo‘lish, tashkilotchilar va foydalanuvchilar bilan **chatlashish**, hamda tadbirlarni **eslatmaga qo‘shish** imkonini beradi.
 
 ---
@@ -35,13 +38,17 @@ Mahalliy Tadbirlar — bu Android uchun ishlab chiqilgan mobil ilova bo‘lib, f
 
  🚀 Loyihani ishga tushirish
 
-# 1. GitHub'dan klonlash
+ 1. GitHub'dan klonlash
 ```bash
 git clone git@github.com:jaloliddinomonboev/Mahalliy_tadbirlar_mobil_ilova_2025.git
 ```
 
-# 2. Android Studio orqali loyihani oching
+ 2. Android Studio orqali loyihani oching
 
-# 3. Firebase config (google-services.json) faylini loyihaga qo‘shing
+ 3. Firebase config (google-services.json) faylini loyihaga qo‘shing
 
-# 4. Qurilmada yoki emulatorda ishga tushiring
+ 4. Qurilmada yoki emulatorda ishga tushiring
+
+📄 Litsenziya
+Ushbu loyiha MIT litsenziyasi asosida tarqatiladi. Batafsil ma’lumot uchun LICENSE faylini ko‘ring.
+
